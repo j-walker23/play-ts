@@ -1,0 +1,10 @@
+# file types
+*.DS_STORE
+
+
+# directories
+.idea/
+lib/
+jspm_packages/
+typings/
+node_modules/
